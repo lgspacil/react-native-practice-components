@@ -6,7 +6,7 @@
 # dependencies
 /node_modules
 /functions/service_account.json
-/.env
+.env
 
 # misc
 .env.local
